@@ -5,7 +5,7 @@
 </div>
 
 
-####Here are some ideas to get you started:
+About Me :
 
 - 🌱 I am currently learning Logic Programming, HTML5 and CSS3
 - 🤔 Help me improve and achieve my goal
