@@ -17,7 +17,7 @@
 
 
 <div aling="left">
-            <h3 Lenguages and Tools : </h3>
+            <h3> Lenguages and Tools : </h3>
             <div>
                         <img src"" title="" alt="" width="40" height="40"/>&nbsp;
                         <img src"" title="" alt="" width="40" height="40"/>&nbsp;
