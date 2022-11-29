@@ -1,24 +1,15 @@
 <div id="header" align="center">  
             <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
             <h1 align="center"> Helow 👋 Welcome </h1>
-            <h3 align="center"> Thanks for being here, let me introduce myself. I am a young man eager to learn everything related to IT and especially those that focus on software development, I hope I can get your help to achieve my goal. </h3>
-  
-  
-  
-  
-  
+            <h3 align="center"> Thanks for being here, let me introduce myself. I am a young man eager to learn everything related to IT and especially those that focus  on software development, I hope I can get your help to achieve my goal. </h3>
+</div>
 
-<!--
-**JonasCys96/JonasCys96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+####Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently learning Logic Programming, HTML5 and CSS3
+- 🤔 Help me improve and achieve my goal
+- 💬 If there's anything I can help with, don't hesitate to ask.
+- 📫 you can contact me here
+- 😄 Positive before any challenge
+- ⚡ with all the energies
