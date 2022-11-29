@@ -5,6 +5,7 @@
 </div>
 
 
+
 About Me :
 
 - 🌱 I am currently learning Logic Programming, HTML5 and CSS3
@@ -13,3 +14,7 @@ About Me :
 - 📫 you can contact me here
 - 😄 Positive before any challenge
 - ⚡ with all the energies
+
+
+<div aling="left">
+             
